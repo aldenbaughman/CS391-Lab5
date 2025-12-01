@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.gen/sources_1/ip/axi_bram_ctrl_0/sim/axi_bram_ctrl_0.vhd,1764623739,vhdl,,,,axi_bram_ctrl_0,,,,,,,,
+/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sim_1/new/pico32_test.sv,1764624188,systemVerilog,,,,pico32_test,,uvm,../../../../../../../../../scratch/Xilinx/2025.1/data/rsb/busdef,,,,,
+/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sources_1/new/picorv32.v,1764623423,verilog,,,,picorv32;picorv32_axi;picorv32_axi_adapter;picorv32_pcpi_div;picorv32_pcpi_fast_mul;picorv32_pcpi_mul;picorv32_regs;picorv32_wb,,uvm,../../../../../../../../../scratch/Xilinx/2025.1/data/rsb/busdef,,,,,

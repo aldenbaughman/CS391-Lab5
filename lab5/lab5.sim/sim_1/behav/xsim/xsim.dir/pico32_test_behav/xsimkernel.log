@@ -1,0 +1,7 @@
+Running: xsim.dir/pico32_test_behav/xsimk -simmode gui -wdb pico32_test_behav.wdb -simrunnum 0 -socket 51253
+Design successfully loaded
+Design Loading Memory Usage: 394540 KB (Peak: 394548 KB)
+Design Loading CPU Usage: 1520 ms
+Simulation completed
+Simulation Memory Usage: 484932 KB (Peak: 533808 KB)
+Simulation CPU Usage: 77410 ms

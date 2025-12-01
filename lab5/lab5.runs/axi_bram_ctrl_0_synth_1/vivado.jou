@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Dec  1 16:15:43 2025
+# Process ID         : 2124176
+# Current directory  : /home/ugrad/aldenb/CS391-Lab5/lab5/lab5.runs/axi_bram_ctrl_0_synth_1
+# Command line       : vivado -log axi_bram_ctrl_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source axi_bram_ctrl_0.tcl
+# Log file           : /home/ugrad/aldenb/CS391-Lab5/lab5/lab5.runs/axi_bram_ctrl_0_synth_1/axi_bram_ctrl_0.vds
+# Journal file       : /home/ugrad/aldenb/CS391-Lab5/lab5/lab5.runs/axi_bram_ctrl_0_synth_1/vivado.jou
+# Running On         : cs730-test4.bu.edu
+# Platform           : unknown
+# Operating System   : unknown
+# Processor Detail   : Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+# CPU Frequency      : 3439.783 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 4
+# Host memory        : 33287 MB
+# Swap memory        : 16844 MB
+# Total Virtual      : 50132 MB
+# Available Virtual  : 41602 MB
+#-----------------------------------------------------------
+source axi_bram_ctrl_0.tcl -notrace

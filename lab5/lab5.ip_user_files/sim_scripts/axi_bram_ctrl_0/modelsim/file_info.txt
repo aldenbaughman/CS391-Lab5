@@ -1,0 +1,6 @@
+xpm_cdc.sv,systemverilog,xpm,../ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../../../../../../../scratch/Xilinx/2025.1/data/rsb/busdef"
+xpm_memory.sv,systemverilog,xpm,../ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="../../../../../../../../../scratch/Xilinx/2025.1/data/rsb/busdef"
+xpm_VCOMP.vhd,vhdl,xpm,../ip/xpm/xpm_VCOMP.vhd,incdir="../../../../../../../../../scratch/Xilinx/2025.1/data/rsb/busdef"
+axi_bram_ctrl_v4_1_rfs.vhd,vhdl,axi_bram_ctrl_v4_1_13,../../../ipstatic/hdl/axi_bram_ctrl_v4_1_rfs.vhd,incdir="../../../../../../../../../scratch/Xilinx/2025.1/data/rsb/busdef"
+axi_bram_ctrl_0.vhd,vhdl,xil_defaultlib,../../../../lab5.gen/sources_1/ip/axi_bram_ctrl_0/sim/axi_bram_ctrl_0.vhd,incdir="../../../../../../../../../scratch/Xilinx/2025.1/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

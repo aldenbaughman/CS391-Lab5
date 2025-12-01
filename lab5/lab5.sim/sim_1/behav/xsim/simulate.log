@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. pico32_test.my_bram.U0.gint_inst.xpm_spram_mem_gen.xpm_memory_spram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /pico32_test/my_bram/U0/gint_inst/xpm_spram_mem_gen/xpm_memory_spram_inst/xpm_memory_base_inst/Initial310_2  Scope: pico32_test.my_bram.U0.gint_inst.xpm_spram_mem_gen.xpm_memory_spram_inst.xpm_memory_base_inst.config_drc  File: /scratch/Xilinx/2025.1/Vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv Line: 524
+INFO: xsimkernel Simulation Memory Usage: 484932 KB (Peak: 533808 KB), Simulation CPU Usage: 77410 ms

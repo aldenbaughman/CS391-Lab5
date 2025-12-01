@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "axi_bram_ctrl_v4_1_13" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "pico32_test_behav" "xil_defaultlib.pico32_test" "xil_defaultlib.glbl" -log "elaborate.log" 

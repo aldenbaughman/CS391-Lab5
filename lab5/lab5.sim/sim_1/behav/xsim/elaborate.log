@@ -1,0 +1,36 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /scratch/Xilinx/2025.1/Vivado/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L axi_bram_ctrl_v4_1_13 -L uvm -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot pico32_test_behav xil_defaultlib.pico32_test xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-9380] size mismatch in mixed-language port association of VHDL port 's_axi_arprot' [/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sim_1/new/pico32_test.sv:61]
+WARNING: [VRFC 10-3091] actual bit length 20 differs from formal bit length 32 for port 'mem_axi_awaddr' [/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sim_1/new/pico32_test.sv:100]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'mem_axi_wstrb' [/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sim_1/new/pico32_test.sv:106]
+WARNING: [VRFC 10-3091] actual bit length 20 differs from formal bit length 32 for port 'mem_axi_araddr' [/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sim_1/new/pico32_test.sv:113]
+WARNING: [VRFC 10-5021] port 's_axi_rresp' is not connected on this instance [/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sim_1/new/pico32_test.sv:61]
+WARNING: [VRFC 10-5021] port 'pcpi_wr' is not connected on this instance [/home/ugrad/aldenb/CS391-Lab5/lab5/lab5.srcs/sim_1/new/pico32_test.sv:92]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package xpm.vcomponents
+Compiling package axi_bram_ctrl_v4_1_13.axi_bram_ctrl_funcs
+Compiling architecture implementation of entity axi_bram_ctrl_v4_1_13.axi_lite [\axi_lite(c_s_axi_addr_width=20,...]
+Compiling architecture implementation of entity axi_bram_ctrl_v4_1_13.axi_bram_ctrl_top [\axi_bram_ctrl_top(c_bram_addr_w...]
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=0,ME...
+Compiling module xpm.xpm_memory_spram(MEMORY_SIZE=838...
+Compiling architecture implementation of entity axi_bram_ctrl_v4_1_13.axi_bram_ctrl [\axi_bram_ctrl(c_bram_inst_mode=...]
+Compiling architecture axi_bram_ctrl_0_arch of entity xil_defaultlib.axi_bram_ctrl_0 [axi_bram_ctrl_0_default]
+Compiling module xil_defaultlib.picorv32_axi_adapter
+Compiling module xil_defaultlib.picorv32_default
+Compiling module xil_defaultlib.picorv32_axi
+Compiling module xil_defaultlib.pico32_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot pico32_test_behav
